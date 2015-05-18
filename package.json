@@ -1,0 +1,22 @@
+{
+  "name": "wemark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/wemark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/wemark/issues"
+  },
+  "homepage": "https://github.com/i5ting/wemark#readme",
+  "dependencies": {
+    "marked": "^0.3.3"
+  }
+}
