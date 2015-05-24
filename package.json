@@ -1,25 +1,25 @@
 {
-  "name": "marked",
+  "name": "wemark",
   "description": "A markdown parser built for speed",
   "author": {
     "name": "Christopher Jeffrey"
   },
   "version": "0.3.3",
-  "main": "./lib/marked.js",
+  "main": "./lib/wemark.js",
   "bin": {
-    "marked": "./bin/marked"
+    "wemark": "./bin/wemark"
   },
   "man": [
-    "./man/marked.1"
+    "./man/wemark.1"
   ],
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/chjj/marked.git"
+    "url": "git://github.com/chjj/wemark.git"
   },
-  "homepage": "https://github.com/chjj/marked",
+  "homepage": "https://github.com/chjj/wemark",
   "bugs": {
-    "url": "http://github.com/chjj/marked/issues"
+    "url": "http://github.com/chjj/wemark/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -42,9 +42,9 @@
     "bench": "node test --bench"
   },
   "gitHead": "2b5802f258c5e23e48366f2377fbb4c807f47658",
-  "_id": "marked@0.3.3",
+  "_id": "wemark@0.3.3",
   "_shasum": "08bad9cac13736f6cceddc202344f1b0bf255390",
-  "_from": "marked@*",
+  "_from": "wemark@*",
   "_npmVersion": "2.3.0",
   "_nodeVersion": "0.10.35",
   "_npmUser": {
@@ -59,9 +59,9 @@
   ],
   "dist": {
     "shasum": "08bad9cac13736f6cceddc202344f1b0bf255390",
-    "tarball": "http://registry.npmjs.org/marked/-/marked-0.3.3.tgz"
+    "tarball": "http://registry.npmjs.org/wemark/-/wemark-0.3.3.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/marked/-/marked-0.3.3.tgz",
+  "_resolved": "https://registry.npmjs.org/wemark/-/wemark-0.3.3.tgz",
   "readme": "ERROR: No README data found!"
 }
