@@ -1,10 +1,10 @@
 {
-  "name": "marked",
+  "name": "wemark",
   "version": "0.3.2",
-  "repo": "chjj/marked",
+  "repo": "chjj/wemark",
   "description": "A markdown parser built for speed",
   "keywords": ["markdown", "markup", "html"],
-  "scripts": ["lib/marked.js"],
-  "main": "lib/marked.js",
+  "scripts": ["lib/wemark.js"],
+  "main": "lib/wemark.js",
   "license": "MIT"
 }
